@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">抑郁筛查</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="login_uid">账户</string>
+    <string name="login_pwd">密码</string>
+    <string name="doctor">医生</string>
+    <string name="patient">患者</string>
+    <string name="name">姓名</string>
+    <string name="age">年龄</string>
+    <string name="female">女</string>
+    <string name="male">男</string>
+
+</resources>

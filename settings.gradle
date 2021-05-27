@@ -1,0 +1,2 @@
+rootProject.name = "抑郁筛查"
+include ':app'
